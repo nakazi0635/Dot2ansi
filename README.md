@@ -8,7 +8,7 @@ This time, we created a program to convert a dot picture to ANSI escape code on 
 
 # DEMO
 
-I will attach it later.
+<img width="399" alt="スクリーンショット 2023-06-01 19 35 38" src="https://github.com/nakazi0635/dot2ansi/assets/91645661/4d8ace50-0999-45d6-8c0c-080eff0bffdb">
 
 
 
@@ -17,10 +17,10 @@ I will attach it later.
 Examines a dot picture pixel by pixel and calculates RGB values.
 
 Finds the color with the smallest error in RGB value from the colors that can be represented by ANSI escape code.
-<img width="653" alt="print1" src="https://github.com/nakazi0635/dot2ansi/assets/91645661/a2bc8617-e6bd-4bcd-8f52-bda18e022bc4">
+<img width="653" alt="print1" src="https://github.com/nakazi0635/dot2ansi/assets/91645661/1e454c7d-fa20-49f3-b39e-7d29f4f1689d">
 
 Outputs the colors found in this way to a text file.
-<img width="855" alt="print2" src="https://github.com/nakazi0635/dot2ansi/assets/91645661/37ceb7c6-0cd4-45ba-992b-10c1ab66b4f9">
+<img width="855" alt="print2" src="https://github.com/nakazi0635/dot2ansi/assets/91645661/a35715f7-6891-4e1b-9723-064960f46ce0">
 
 Change the terminal to zsh and specify a shell split to be executed after the terminal is started to achieve drawing.
 
