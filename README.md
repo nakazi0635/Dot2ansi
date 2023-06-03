@@ -109,7 +109,7 @@ Linux and Windows environments have not been tested.
 
 # Author.
 
-* Nakaj
+* Naka
 
 # License
 
